@@ -92,3 +92,5 @@ TypeScript
  <tr>
  </tr>
 </table>
+
+https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif
