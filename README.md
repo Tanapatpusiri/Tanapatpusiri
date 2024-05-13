@@ -84,6 +84,10 @@ TypeScript
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="Postman" />
       <br>React
     </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="Postman" />
+      <br>Apple
+    </td>
   </tr>
  <tr>
  </tr>
