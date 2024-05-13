@@ -13,6 +13,10 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="Postman" />
+      <br>Mongodb
+    </td>
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
@@ -29,6 +33,7 @@
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
       <br>Nginx
     </td>
+    
   </tr>
   <tr>
     <td align="center" width="96">
