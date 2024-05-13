@@ -60,6 +60,18 @@
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Postman" />
       <br>Figma
     </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="Postman" />
+      <br>Mongodb
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Postman" />
+      <br>Vue
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="Postman" />
+      <br>React
+    </td>
   </tr>
  <tr>
  </tr>
