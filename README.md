@@ -15,7 +15,9 @@
     </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="Postman" />
-      <br>TypeScript
+      <br>
+<br>
+TypeScript
     </td>
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
@@ -41,8 +43,8 @@
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
+        <img src="https://skillicons.dev/icons?i=mui" width="48" height="48" alt="HTML" />
+      <br>MUI
     </td>
      <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=cursor" width="48" height="48" alt="HTML" />
