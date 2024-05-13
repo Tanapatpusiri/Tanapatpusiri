@@ -14,8 +14,9 @@
       <br>Javascript
     </td>
      <td align="center" width="96">
+       <br>
         <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="Postman" />
-      <br>
+      
 <br>
 TypeScript
     </td>
@@ -47,7 +48,7 @@ TypeScript
       <br>MUI
     </td>
      <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=cursor" width="48" height="48" alt="HTML" />
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="96">
