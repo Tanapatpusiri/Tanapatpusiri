@@ -50,6 +50,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanapatpusiri&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tanapatpusiri&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
+
 ---
 
 ## 🔗 Connect With Me  
