@@ -1,95 +1,69 @@
 <h1 align="center">Hi 👋, I'm Tanapat Pusiri</h1>
+<h3 align="center">A Passionate Full-Stack Developer from Thailand</h3>
 
-- 🌱 I’m currently learning **Next.js React.js**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanapatpusiri&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/tanapatpusiri?tab=followers">
+    <img src="https://img.shields.io/github/followers/tanapatpusiri?label=Followers&style=social" alt="GitHub followers" />
+  </a>
+</p>
 
+---
 
-## My favorite tools and technologies ⚙️
+### 🚀 About Me  
+- 🌱 I’m currently learning **Next.js & React.js**  
+- 💼 Internship at **Foxbith** as a **Full-Stack Developer**  
+- 💡 Passionate about **Web Development**
+- 📫 How to reach me: **thanapatpusiri@gmail.com**  
+- ⚡ Fun fact: **I love coding and sports!**  
 
-> Tools and technologies that I have worked with and am interested in
+---
 
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-     <td align="center" width="96">
-       <br>
-        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="Postman" />
-      
-<br>
-TypeScript
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-      <br>Nginx
-    </td>
-    
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=mui" width="48" height="48" alt="HTML" />
-      <br>MUI
-    </td>
-     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-  </tr>
-   <tr>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Postman" />
-      <br>Figma
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="Postman" />
-      <br>Mongodb
-    </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Postman" />
-      <br>Vue
-    </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="Postman" />
-      <br>React
-    </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="Postman" />
-      <br>Apple
-    </td>
-  </tr>
- <tr>
- </tr>
-</table>
+## 🛠 My Favorite Tools & Technologies  
 
+> Tools and technologies that I have worked with and am interested in:
+
+### 🌐 Frontend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,next,tailwind,bootstrap,mui,figma" />
+</p>
+
+### 🖥 Backend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nginx,docker" />
+</p>
+
+### ⚙️ DevOps & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanapatpusiri&theme=tokyonight" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanapatpusiri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanapatpusiri&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🔗 Connect With Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/tanapatpusiri">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tanapatpusiri@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/tanapatpusiri">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
