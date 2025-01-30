@@ -56,6 +56,11 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/tanapatpusiri/tanapatpusiri/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 ## 🔗 Connect With Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/tanapat-pusiri-abbaa5290">
