@@ -41,9 +41,6 @@
 ---
 
 ## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanapatpusiri&theme=tokyonight" alt="streak stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanapatpusiri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
