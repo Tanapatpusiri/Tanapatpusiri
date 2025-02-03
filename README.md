@@ -56,7 +56,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/tanapatpusiri/tanapatpusiri/output/snake.svg" alt="Snake animation" />
 
 ###
 
