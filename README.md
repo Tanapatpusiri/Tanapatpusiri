@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tanapat Pusiri</h1>
-<h3 align="center">A Passionate Full-Stack Developer from Thailand</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tanapatpusiri&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
