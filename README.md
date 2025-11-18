@@ -37,19 +37,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanapatpusiri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanapatpusiri&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanapatpusiri&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
-
----
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanapatpusiri/tanapatpusiri/output/github-contribution-grid-snake-dark.svg">
